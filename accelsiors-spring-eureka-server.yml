@@ -12,7 +12,7 @@ eureka:
     serviceUrl:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/       
 spring:
-  profiles: docker
+  profiles: accelsiors
 eureka:
   instance:
     hostname: accelsiors
