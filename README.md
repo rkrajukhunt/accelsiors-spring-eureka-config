@@ -1,0 +1,1 @@
+# accelsiors-spring-eureka-config
