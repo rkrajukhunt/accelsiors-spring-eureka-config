@@ -1,1 +1,1 @@
-# accelsiors-spring-eureka-config
+# Accelsiors Spring Eureka Config
